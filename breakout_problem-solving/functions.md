@@ -2,6 +2,8 @@
 
 ## Definition
 
+Reusable code, a block of code that performs an action; container for code
+
 ## Related terms
 
 - **non-primitive**: objects or functions - complex data that is not stored or accessed by value, but instead by reference
